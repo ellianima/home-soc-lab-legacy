@@ -40,6 +40,6 @@ Wazuh detected account creation within seconds and correctly
 mapped to MITRE T1098. False positives from normal Windows
 background processes confirmed as benign.
 
-'''
+```
 Notes for tomorrow: blablablabla analyse moreeee, keep consistent tabs, always.
-'''
+```
