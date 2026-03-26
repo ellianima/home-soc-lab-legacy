@@ -1,0 +1,43 @@
+# HOME SOC Operations Lab
+### SOC Analyst L1 - Technical Writeups & Daily Operations
+
+## Overview
+A fully operational Security Operations Center deployed on a home LAN,
+simulating REAL-WORLD SOC L1 ANALYST WORKFLOW including alert monitoring,
+threat triage, IOC investigation, and incident documentation.
+
+## Architecture
+| Component | Role | IP |
+|---|---|---|
+| Kali Linux VM | SOC Manager | 192.168.1.X |
+| Ubuntu VM | Wazuh Agent | 192.168.1.X |
+| Windows 11 | Wazuh Agent | 192.168.1.X |
+
+## Tools
+| Tool | Purpose |
+|---|---|
+| Wazuh 4.7.5 | SIEM + EDR |
+| Zeek 8.0.5 | Network traffic analysis |
+| TheHive 5.2 | Incident case management |
+| Kali Linux | SOC workstation |
+
+## Daily Workflow
+- Monitor Wazuh alerts across active agents
+- Capture and analyze network traffic with Zeek
+- Investigate IOCs using VirusTotal, urlscan.io, crt.sh
+- Document incidents in TheHive and this repository
+
+## Incidents
+| Case | Title | Severity | Verdict |
+|---|---|---|---|
+| #001 | Suspicious Account Creation | Medium | True Positive |
+
+## Status
+Active — updated daily
+
+
+
+'''
+nyeheheheheheh!!! >:3
+'''
+
