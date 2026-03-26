@@ -1,7 +1,7 @@
 # Case #001 — Suspicious Account Creation
 **Date:** 2026-03-26 
 **Analyst:** ellianima 
-**Agent:** Strawberry-Plump-Jelly-Silly-Fun (192.168.1.x)
+**Agent:** Strawberry-Plump-Jelly-Silly-Fun (192.168.1.7)
 **Severity:** Medium 
 **Verdict:** True Positive (analyst simulation)
 
