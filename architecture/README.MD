@@ -1,4 +1,4 @@
-# 🏗️ SOC Lab Architecture
+#  SOC Lab Architecture
 
 ## Network Overview
 
@@ -17,7 +17,7 @@
 
 ## Component Roles
 
-### 🔴 Kali Linux — SOC Manager (`192.168.1.8`)
+### Kali Linux — SOC Manager (`192.168.1.8`)
 
 The central nerve of the lab. All security tooling lives here.
 
@@ -36,7 +36,7 @@ The central nerve of the lab. All security tooling lives here.
 - `5601/tcp` — Wazuh/Kibana dashboard
 - `9000/tcp` — TheHive web interface
 
-### 🟡 Ubuntu VM — Linux Agent (`192.168.1.5`)
+###  Ubuntu VM — Linux Agent (`192.168.1.5`)
 
 **Hostname:** `ubuntu-soc-agent/Marshmallow-Cat-Glitter-Sparkles`  
 Linux server endpoint. Wazuh agent installed, reports to Kali manager. Used for:
@@ -44,7 +44,7 @@ Linux server endpoint. Wazuh agent installed, reports to Kali manager. Used for:
 - File integrity monitoring (FIM)
 - Attack simulation target (Phase 4)
 
-### 🟡 Windows 11 Laptop — Windows Agent (`192.168.1.7`)
+### Windows 11 Laptop — Windows Agent (`192.168.1.7`)
 
 **Hostname:** `Strawberry-Plump-Jelly-Silly-Fun`  
 **Status:** ACTIVE  
