@@ -1,4 +1,4 @@
-# ⚙️ SOC Lab Setup Guide
+#  SOC Lab Setup Guide
 
 Full reproducible setup documentation for the Home SOC Operations Lab.  
 Environment: VirtualBox on Windows 11 host, Kali Linux + Ubuntu VMs on bridged LAN.
@@ -217,7 +217,7 @@ NET START WazuhSvc
 # Verify in Services or check dashboard
 ```
 
-**Status:** ACTIVE ✅
+**Status:** ACTIVE 
 
 ---
 
