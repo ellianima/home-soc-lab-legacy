@@ -38,14 +38,7 @@ Active — updated daily
 
 
 ```
-nyeheheheheheh!!! >:3
-hi!!!!!1
-hellooooooo!!!11!
-this is for daily notes and i will change this everyday!!! YEHAJFSKDJGSHDKJFHK
-hi hi hi hi hi hi
-meee like studying!! me LOEVEE studying!!!
-I can study FOREVER!!!!!!!!!
-x3 meow meow
+woopity doopity doooo
 ```
 
 ```
