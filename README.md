@@ -9,9 +9,9 @@ threat triage, IOC investigation, and incident documentation.
 ## Architecture
 | Component | Role | IP |
 |---|---|---|
-| Kali Linux VM | SOC Manager | 192.168.1.X |
-| Ubuntu VM | Wazuh Agent | 192.168.1.X |
-| Windows 11 | Wazuh Agent | 192.168.1.X |
+| Kali Linux VM | SOC Manager | 192.168.1.8 |
+| Ubuntu VM | Wazuh Agent | 192.168.1.5 |
+| Windows 11 | Wazuh Agent | 192.168.1.7 |
 
 ## Tools
 | Tool | Purpose |
@@ -37,7 +37,11 @@ Active — updated daily
 
 
 
-'''
-nyeheheheheheh!!! >:3
-'''
+```
+woopity doopity doooo
+```
+
+```
+important notes: Case 001 is a simulated True Positive
+```
 

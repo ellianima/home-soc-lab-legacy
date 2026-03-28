@@ -1,7 +1,7 @@
 # Case #001 — Suspicious Account Creation
 **Date:** 2026-03-26 
 **Analyst:** ellianima 
-**Agent:** Strawberry-Plump-Jelly-Silly-Fun (192.168.1.x)
+**Agent:** Strawberry-Plump-Jelly-Silly-Fun (192.168.1.7)
 **Severity:** Medium 
 **Verdict:** True Positive (analyst simulation)
 
@@ -39,3 +39,7 @@ Test account removed. No escalation required.
 Wazuh detected account creation within seconds and correctly
 mapped to MITRE T1098. False positives from normal Windows
 background processes confirmed as benign.
+
+```
+Notes for tomorrow: blablablabla analyse moreeee, keep consistent tabs, always.
+```
