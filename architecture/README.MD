@@ -5,7 +5,7 @@
 | Component | OS | IP Address | Role |
 |-----------|-----|-----------|------|
 | Kali Linux VM | Kali Rolling | 192.168.1.8 (static) | SOC Manager |
-| Ubuntu VM | Ubuntu 22.04 LTS | 192.168.1.5 | Monitored Endpoint (Linux Agent) |
+| Ubuntu VM | Ubuntu 22.04 LTS | 192.168.1.5 (DHCP) | Monitored Endpoint (Linux Agent) |
 | Windows 11 Laptop | Windows 11 | 192.168.1.7 (DHCP) | Monitored Endpoint (Windows Agent) |
 | Home Router | ZTE F670L | 192.168.1.1 | Gateway / DHCP Server |
 
