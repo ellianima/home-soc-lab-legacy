@@ -5,8 +5,8 @@
 | Component | OS | IP Address | Role |
 |-----------|-----|-----------|------|
 | Kali Linux VM | Kali Rolling | 192.168.1.8 (static) | SOC Manager |
-| Ubuntu VM | Ubuntu 22.04 LTS | 192.168.1.5 (DHCP) | Monitored Endpoint (Linux Agent) |
-| Windows 11 Laptop | Windows 11 | 192.168.1.7 (DHCP) | Monitored Endpoint (Windows Agent) |
+| Ubuntu VM | Ubuntu 22.04 LTS | 192.168.1.x (DHCP) | Monitored Endpoint (Linux Agent) |
+| Windows 11 Laptop | Windows 11 | 192.168.1.x (DHCP) | Monitored Endpoint (Windows Agent) |
 | Home Router | ZTE F670L | 192.168.1.1 | Gateway / DHCP Server |
 
 **Subnet:** `192.168.1.0/24`  
@@ -36,7 +36,7 @@ The central nerve of the lab. All security tooling lives here.
 - `5601/tcp` — Wazuh/Kibana dashboard
 - `9000/tcp` — TheHive web interface
 
-###  Ubuntu VM — Linux Agent (`192.168.1.5`)
+###  Ubuntu VM — Linux Agent (`192.168.1.x`)
 
 **Hostname:** `ubuntu-soc-agent/Marshmallow-Cat-Glitter-Sparkles`  
 Linux server endpoint. Wazuh agent installed, reports to Kali manager. Used for:
@@ -44,7 +44,7 @@ Linux server endpoint. Wazuh agent installed, reports to Kali manager. Used for:
 - File integrity monitoring (FIM)
 - Attack simulation target (Phase 4)
 
-### Windows 11 Laptop — Windows Agent (`192.168.1.7`)
+### Windows 11 Laptop — Windows Agent (`192.168.1.x`)
 
 **Hostname:** `Strawberry-Plump-Jelly-Silly-Fun`  
 **Status:** ACTIVE  
