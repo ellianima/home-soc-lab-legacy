@@ -10,7 +10,7 @@ threat triage, IOC investigation, and incident documentation.
 | Component | Role | IP |
 |---|---|---|
 | Kali Linux VM | SOC Manager | 192.168.1.8 |
-| Ubuntu VM | Wazuh Agent | 192.168.1.x |
+| Ubuntu VM | Wazuh Agent | 192.168.1.x |   <- ` Temporarily Decomissioned `
 | Windows 11 | Wazuh Agent | 192.168.1.x |
 ```sidenote about IP addresses
 Kali Linux VM SOC Manager is a static IP address
