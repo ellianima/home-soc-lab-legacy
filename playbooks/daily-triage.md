@@ -139,7 +139,7 @@ ip a
 nmap -sn 192.168.1.0/24
 
 # Scan open ports on a device
-nmap -sV 192.168.1.7
+nmap -sV 192.168.1.x
 
 # Test connectivity
 ping 192.168.1.8
@@ -230,10 +230,10 @@ Restart-Service WazuhSvc
 | Device | IP | Role | Agent Name |
 |---|---|---|---|
 | Kali Linux VM | 192.168.1.8 | SOC Manager | — |
-| Ubuntu VM | 192.168.1.5 | Wazuh Agent | ubuntu-soc-agent/Marshmallow-Cat-Glitter-Sparkles |
-| Windows 11 | 192.168.1.7 | Wazuh Agent | Strawberry-Plump-Jelly-Silly-Fun |
-| Phone | 192.168.1.6 | Zeek monitored | — |
-
+| Ubuntu VM | 192.168.1.x | Wazuh Agent | ubuntu-soc-agent/Marshmallow-Cat-Glitter-Sparkles |
+| Windows 11 | 192.168.1.x | Wazuh Agent | Strawberry-Plump-Jelly-Silly-Fun |
+| Phone | 192.168.1.x | Zeek monitored | — |
+sidenote: [ DHCP Resets IP Addr for other devices, the agent stays there so it is dynamic but stable. ]
 ---
 
 ## Incident Report Template
