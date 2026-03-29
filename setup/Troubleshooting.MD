@@ -1,4 +1,4 @@
-# 🔧 Wazuh Agent Troubleshooting Guide
+# Wazuh Agent Troubleshooting Guide
  
 ## Problem: Agent Persistent "Never Connected" / Duplicate Name Loop
  
