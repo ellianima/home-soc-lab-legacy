@@ -42,8 +42,13 @@ Active — updated daily
 
 
 ```
-woopity doopity doooo
-Done for today 3/28/2026
+3/29/2026
+I HAD TO DO SO MUCH TROUBLESHOOTINGGGGGGGGGGGGGGGGGGGGGGGg
+AAAAAAAAAAAAAAAAAAA
+AAAAAAAA
+I deleted the two ubuntu agents
+Windows agent stays
+it toooooook so long!!!!!!!!! omydays
 ```
 
 ```
