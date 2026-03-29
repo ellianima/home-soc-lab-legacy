@@ -49,6 +49,7 @@ AAAAAAAA
 I deleted the two ubuntu agents
 Windows agent stays
 it toooooook so long!!!!!!!!! omydays
+trouble shooting  I did documented on setup -> troubleshooting.md   heheheheheehhehehehh
 ```
 
 ```
