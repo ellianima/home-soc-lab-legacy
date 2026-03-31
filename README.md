@@ -21,7 +21,7 @@ Ubuntu Agents Temporarily Decomissioned
 ## Tools
 | Tool | Purpose |
 |---|---|
-| Wazuh 4.14.1 | SIEM + EDR |
+| Wazuh 4.14.4 | SIEM + EDR |
 | Zeek 8.0.5 | Network traffic analysis |
 | TheHive 5.2 | Incident case management |
 | Kali Linux | SOC workstation |
