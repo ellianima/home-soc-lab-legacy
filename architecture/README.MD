@@ -23,7 +23,7 @@ The central nerve of the lab. All security tooling lives here.
 
 | Tool | Version | Purpose |
 |------|---------|---------|
-| Wazuh Manager | 4.7.5 | SIEM — collects, correlates, alerts |
+| Wazuh Manager | 4.14.4 | SIEM — collects, correlates, alerts |
 | Elasticsearch | 8.x | Log storage and indexing backend |
 | Kibana / Wazuh Dashboard | 8.x | Alert visualization and dashboards |
 | Zeek | 8.0.5 | Passive network traffic capture and analysis |
