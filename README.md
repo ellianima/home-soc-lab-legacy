@@ -10,17 +10,18 @@ threat triage, IOC investigation, and incident documentation.
 | Component | Role | IP |
 |---|---|---|
 | Kali Linux VM | SOC Manager | 192.168.1.8 |
-| Ubuntu VM | Wazuh Agent | 192.168.1.x |
+| Ubuntu VM | Wazuh Agent | 192.168.1.x |   
 | Windows 11 | Wazuh Agent | 192.168.1.x |
 ```sidenote about IP addresses
 Kali Linux VM SOC Manager is a static IP address
 The rest of the devices are managed by the DHCP (will always change | The agent stays and is stable )
+Ubuntu Agents Temporarily Decomissioned
 ```
 
 ## Tools
 | Tool | Purpose |
 |---|---|
-| Wazuh 4.7.5 | SIEM + EDR |
+| Wazuh 4.14.4 | SIEM + EDR |
 | Zeek 8.0.5 | Network traffic analysis |
 | TheHive 5.2 | Incident case management |
 | Kali Linux | SOC workstation |
@@ -49,6 +50,7 @@ AAAAAAAA
 I deleted the two ubuntu agents
 Windows agent stays
 it toooooook so long!!!!!!!!! omydays
+trouble shooting  I did documented on setup -> troubleshooting.md   heheheheheehhehehehh
 ```
 
 ```
