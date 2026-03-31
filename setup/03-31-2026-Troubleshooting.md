@@ -1,4 +1,4 @@
-# 🔧 Troubleshooting Log — March 31, 2026
+#  Troubleshooting Log — March 31, 2026
 
 **Environment:** Wazuh SOC Lab — Kali Linux Manager + Windows 11 Agent
 **Session:** MITRE ATT&CK + FIM Fix
