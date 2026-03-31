@@ -48,7 +48,7 @@ Your agents:
 |-------|------|----|-----------------|
 | 000 | kali (manager) | 127.0.0.1 | Active/Local |
 | 003 | Strawberry-Plump-Jelly-Silly-Fun | 192.168.1.6 | Active |
-| ubuntu-soc-agent | Ubuntu VM | 192.168.1.x | Active |
+| ubuntu-soc-agent | Ubuntu VM | 192.168.1.x | Inactive |
 
 ### Step 3 — Check threat intel feeds
 
