@@ -1,4 +1,4 @@
-# HOME SOC Operations Lab
+# HOME SOC Operations Lab [ DISCONTINUED ]
 ### SOC Analyst L1 - Technical Writeups & Daily Operations
 
 ## Overview
